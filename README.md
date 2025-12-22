@@ -4,9 +4,9 @@
 
 I'm **sansiuchicom** – yes, that's "상스치콤" 😎
 
-- 🔭 I’m currently working on **Construction Management** projects and tools
-- 👯 I’m looking to collaborate with anyone who loves to code **and** anyone passionate about the construction domain
-- ⚡ Fun fact:  
+- 🍔 I’m currently working on **Construction Management** projects and tools
+- 🍔 I’m looking to collaborate with anyone who loves to code **and** anyone passionate about the construction domain
+- 🍔 Fun fact:  
   상하이 스파이시 치킨 콤보 인싸들은 뭐든지 유행타고 줄여말하는 습성이 있음  
   아싸는 반대  
 
